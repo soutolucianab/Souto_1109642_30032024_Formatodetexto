@@ -1,0 +1,32 @@
+/*Clase para el imperio con background rojo*/
+.imperio {
+    background-color: red;
+  }
+
+  /*Clase para rebeldes con background azul*/
+.rebeldes{
+  background-color: blue;
+}
+
+#darthvader {
+  font-size: 1.5em; /* Aumenta el tamaño de la letra */
+}
+
+#luke {
+  font-style: italic; /* Pone el texto en italica */
+}
+
+.soldados {
+  border: 4px dashed;
+  border-right-color: #186d12;
+   /* borde */
+  letter-spacing: 0.2em; /* Ajusta el espacio entre letras */
+}
+
+.apoyo {
+  text-align: center;
+}
+
+.nave {
+  text-transform: uppercase;
+}
